@@ -1,5 +1,6 @@
 # 数据挖掘大作业
 &emsp;&emsp;计算机技术 92342211 平文昊<br />
+&emsp;&emsp;https://github.com/Gyou1t/DataMiningping<br />
 ## Github上传流程
 ### Github用户上传
 （1）注册github用户;<br />
